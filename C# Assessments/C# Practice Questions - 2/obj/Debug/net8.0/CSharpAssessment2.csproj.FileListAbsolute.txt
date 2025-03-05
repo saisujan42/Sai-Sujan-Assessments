@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharpAssessment2\bin\Debug\net8.0\CSharpAssessment2.exe
+C:\Users\User\source\repos\CSharpAssessment2\bin\Debug\net8.0\CSharpAssessment2.deps.json
+C:\Users\User\source\repos\CSharpAssessment2\bin\Debug\net8.0\CSharpAssessment2.runtimeconfig.json
+C:\Users\User\source\repos\CSharpAssessment2\bin\Debug\net8.0\CSharpAssessment2.dll
+C:\Users\User\source\repos\CSharpAssessment2\bin\Debug\net8.0\CSharpAssessment2.pdb
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.dll
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\refint\CSharpAssessment2.dll
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.pdb
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\CSharpAssessment2.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpAssessment2\obj\Debug\net8.0\ref\CSharpAssessment2.dll
